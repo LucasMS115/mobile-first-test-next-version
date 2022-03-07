@@ -29,7 +29,7 @@ export default function Meta ({ title, keywords, description }){
 }
 
 Meta.defaultProps = {
-  title: 'title',
+  title: 'Responsive cards',
   keywords: 'keywords',
   description: 'description',
 }
